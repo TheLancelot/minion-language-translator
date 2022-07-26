@@ -9,3 +9,15 @@ textarea{
 .btn{
  text-align: center;
 }
+
+.out{
+    font-size: larger;
+}
+
+#output{
+    width:87%;
+    border: 1px solid black;
+    margin: 01rem;
+    height: 15vh;
+    padding: 1rem;
+}
