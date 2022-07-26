@@ -49,7 +49,7 @@ function clickHandler() {
 
         /**  .then(json => console.log(json))we dont want entire json, just the translated part
          .then(json => console.log(json.contents.translated))//this puts output on console
-         */
+         */  
 
         .catch(errorHandler);
 
