@@ -4,6 +4,11 @@ body {
     margin: 0;
     font-family: 'Ibarra Real Nova', serif;
     /* background: "/images/bg.jpg"; */
+    background-image: url('https://i.pinimg.com/736x/6a/d8/19/6ad819137caff58f0600c52395c3304d.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: 50% 17%;
+
 }
 
 
