@@ -64,13 +64,18 @@ footer p {
 }
 
 .out {
+    /* margin: 1rem; */
+    margin-left: 9%;
+    margin-right: 63%;
     font-size: larger;
+    text-align: center;
+    background-color: lightblue;
 }
 
 #output {
     width: 81%;
     border: 1px solid black;
-    margin: 01rem;
+    margin: 0.5rem;
     height: 15vh;
     position: absolute;
     padding: .1rem;
