@@ -59,19 +59,30 @@ footer {
     text-align: center;
 }
 footer p {
-    max-width: 800px;
+    width: 90%;
     margin: auto;
+    text-align: center;
 }
 
 .out {
     /* margin: 1rem; */
-    margin-left: 9%;
-    margin-right: 63%;
+    /* margin-left: 5vh;
+    margin-right: 27vh; */
     font-size: larger;
-    text-align: center;
-    background-color: lightblue;
-}
+    /* text-align: center; */
 
+    height: auto;
+}
+.text{
+    display: inline;
+
+    margin-left: 9%;
+    /* margin-right: 25vh; */
+    font-size: larger;
+    /* text-align: center; */
+    background-color: lightblue;
+    height: auto;
+}
 #output {
     width: 81%;
     border: 1px solid black;
@@ -83,6 +94,7 @@ footer p {
     background-color: white;
     margin-left: 9%;
     margin-right: auto;
+    
 }
  
     
