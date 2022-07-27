@@ -57,11 +57,13 @@ footer {
     padding: 1rem;
     background-color: yellow;
     text-align: center;
+    padding-inline-start: 0px;
 }
 footer p {
     width: 90%;
     margin: auto;
     text-align: center;
+    
 }
 
 .out {
