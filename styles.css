@@ -72,4 +72,5 @@ footer p {
     height: 15vh;
     padding: 1rem;
     overflow: scroll;
+    background-color: white;
 }
